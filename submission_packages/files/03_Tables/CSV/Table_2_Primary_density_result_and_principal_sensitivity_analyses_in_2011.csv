@@ -1,0 +1,11 @@
+﻿Analysis,n,Estimate,95% CI,p value
+"Recent deterioration vs density, Spearman",15,rho -0.138,-0.597 to 0.372,0.620*
+"Recent deterioration vs density, Pearson",15,r -0.196,-,0.484
+"Urban poverty vs density, Spearman",15,rho 0.281,-,0.311
+"Female illiteracy vs density, Spearman",15,rho 0.316,-,0.251
+"Sanitation deprivation vs density, Spearman",15,rho -0.061,-,0.829
+"All-area deterioration vs density, Spearman",15,rho -0.091,-,0.747
+Close geographic matches only,9,rho 0.183,-,0.637
+Unadjusted OLS with HC3 SE,15,beta -0.055,-0.211 to 0.101,0.462
+OLS adjusted for log mapped total,15,beta -0.029,-0.269 to 0.210,0.794
+Log-density OLS with HC3 SE,15,beta -0.007,-0.025 to 0.010,0.394

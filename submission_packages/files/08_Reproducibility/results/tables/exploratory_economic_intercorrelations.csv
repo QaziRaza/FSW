@@ -1,0 +1,11 @@
+variable_1,variable_2,n,estimate_rho,p_value_exploratory,p_fdr_bh_within_family
+economic_distress_urban_pct,economic_distress_all_pct,15,0.903571,0.000004,0.000039
+economic_distress_urban_pct,poverty_headcount_urban_pct,15,-0.489286,0.064160,0.091658
+economic_distress_urban_pct,female_illiteracy_urban_pct,15,-0.359571,0.188057,0.208952
+economic_distress_urban_pct,sanitation_deprivation_urban_pct,15,-0.628541,0.012085,0.040283
+economic_distress_all_pct,poverty_headcount_urban_pct,15,-0.425000,0.114295,0.142869
+economic_distress_all_pct,female_illiteracy_urban_pct,15,-0.279070,0.313808,0.313808
+economic_distress_all_pct,sanitation_deprivation_urban_pct,15,-0.592104,0.020043,0.045096
+poverty_headcount_urban_pct,female_illiteracy_urban_pct,15,0.880145,0.000015,0.000075
+poverty_headcount_urban_pct,sanitation_deprivation_urban_pct,15,0.582995,0.022548,0.045096
+female_illiteracy_urban_pct,sanitation_deprivation_urban_pct,15,0.518334,0.047763,0.079604

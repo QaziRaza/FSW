@@ -1,0 +1,8 @@
+{
+  "rounds": 4,
+  "macro_marker_correlations": 32,
+  "assumptions_tested": 8,
+  "continuous_stock_panels": 2,
+  "minimum_exact_p": 0.3333333333333333,
+  "minimum_fdr_p": 1.0
+}

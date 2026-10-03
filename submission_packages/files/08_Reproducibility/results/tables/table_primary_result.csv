@@ -1,0 +1,2 @@
+analysis,method,n,estimate_rho,ci_95_low_bootstrap,ci_95_high_bootstrap,p_asymptotic_two_sided,p_permutation_two_sided,permutations,bootstrap_draws_valid,seed
+primary_2011_density_vs_urban_economic_distress,Spearman,15,-0.137623,-0.597126,0.371846,0.624765,0.619524,100000,20000,20261002

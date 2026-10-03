@@ -1,0 +1,5 @@
+round_id,mapping_period,cities,density_available,typology_available,economic_period,status,reason
+2006_07,2006-07,12,False,True,2006-07,structural replication,Published typology counts; no city adult-male density
+2011,2011,15,True,True,2010-11,primary,"Published total, typology, and density"
+2014,2014,4,False,True,2014-15,structural replication,Four-city Punjab typology table; no city adult-male density
+2016_17,2015-17,18,False,False,2014-15,context only,"City rows sum to 71,315 versus printed total 64,829; no density or city typology"

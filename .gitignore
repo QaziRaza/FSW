@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.localdeps/
+venv/
+tmp/
+results/diagnostics/*.log
+~$*
+
+# Third-party reports are retained locally but are not redistributed.
+data/raw/*
+!data/raw/README.md
+

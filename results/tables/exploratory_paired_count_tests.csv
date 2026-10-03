@@ -1,0 +1,4 @@
+comparison,macro_direction,common_cities,aggregate_fsw_total_pct_change,annualized_aggregate_fsw_change_pct,median_city_fsw_pct_change,cities_with_count_increase,cities_with_count_decrease,exact_sign_test_p_two_sided,paired_n_distress_count_change,rho_distress_change_vs_log_count_change,p_distress_change_vs_log_count_change,count_change_test,distress_change_test
+2006_07_to_2011,deterioration benchmark,10,66.250903,11.958912,93.968640,8,2,0.109375,10,-0.381818,0.276255,exact two-sided sign test,Spearman on district-distress change and log mapped-count ratio
+2011_to_2014,improving national conditions,4,16.769792,5.303669,17.305761,4,0,0.125000,4,-0.400000,,exact two-sided sign test,Spearman on district-distress change and log mapped-count ratio
+2011_to_2016_17,sustained improved national conditions,10,3.359798,0.602643,-1.942535,4,6,0.753906,9,0.416667,0.264586,exact two-sided sign test,Spearman on district-distress change and log mapped-count ratio

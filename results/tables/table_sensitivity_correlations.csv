@@ -1,0 +1,22 @@
+analysis,x,y,method,n,estimate,p_value,omitted_city
+all_cities,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,15,-0.137623,0.624765,
+exclude_karachi,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.030803,0.916747,
+exclude_lahore,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.149615,0.609698,
+exclude_karachi_lahore,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,13,-0.046768,0.879413,
+close_matches_only,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,9,0.183333,0.636820,
+close_or_composite,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,10,0.078788,0.828717,
+leave_out_DG Khan,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.070407,0.810971,DG Khan
+leave_out_Faisalabad,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.070407,0.810971,Faisalabad
+leave_out_Haripur,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.176018,0.547224,Haripur
+leave_out_Hyderabad,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.173626,0.552767,Hyderabad
+leave_out_Karachi,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.030803,0.916747,Karachi
+leave_out_Lahore,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.149615,0.609698,Lahore
+leave_out_Larkana,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.169417,0.562581,Larkana
+leave_out_Mirpurkhas,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.173626,0.552767,Mirpurkhas
+leave_out_Multan,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.079208,0.787807,Multan
+leave_out_Nawabshah,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.070407,0.810971,Nawabshah
+leave_out_Peshawar,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.149615,0.609698,Peshawar
+leave_out_Quetta,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.255226,0.378508,Quetta
+leave_out_Rawalpindi,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.052805,0.857716,Rawalpindi
+leave_out_Sargodha,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.264027,0.361702,Sargodha
+leave_out_Sukkur,economic_distress_urban_pct,fsw_density_per_1000_adult_men,spearman,14,-0.169417,0.562581,Sukkur

@@ -1,0 +1,16 @@
+city,province,economic_distress_urban_pct,chronic_deprivation_index,economic_archetype,fsw_total,fsw_density_per_1000_adult_men,home_share_pct,street_share_pct,kothikhana_share_pct,cellphone_share_pct
+DG Khan,Punjab,28.780000,-0.135387,low acute / high chronic,1413,13.300000,66.454400,3.750880,27.388500,2.406230
+Faisalabad,Punjab,47.200000,-0.692925,high acute / low chronic,4846,5.000000,59.574900,18.200600,18.118000,1.217500
+Haripur,Khyber Pakhtunkhwa,42.590000,-0.680733,high acute / low chronic,2994,11.900000,20.407500,11.556400,7.682030,17.401500
+Hyderabad,Sindh,26.820000,-0.574815,low acute / low chronic,4566,8.500000,37.385000,19.426200,21.419200,13.162500
+Karachi,Sindh,50.790000,-1.004011,high acute / low chronic,25399,5.500000,42.974100,24.796300,28.103500,3.004060
+Lahore,Punjab,37.470000,-0.798353,high acute / low chronic,23766,11.500000,53.366200,19.342800,22.313400,2.436250
+Larkana,Sindh,23.130000,1.418292,low acute / high chronic,1114,8.200000,62.926400,1.346500,3.680430,20.825900
+Mirpurkhas,Sindh,18.150000,0.032686,low acute / high chronic,884,8.500000,40.271500,25.113100,20.701400,2.262440
+Multan,Punjab,39.770000,-0.262956,high acute / high chronic,5308,8.000000,51.883900,8.440090,27.298400,3.221550
+Nawabshah,Sindh,27.580000,1.900740,low acute / high chronic,2011,14.200000,41.720500,26.106400,7.260070,16.459500
+Peshawar,Khyber Pakhtunkhwa,34.550000,0.924955,low acute / high chronic,3317,4.200000,31.112500,15.948100,21.766700,30.539600
+Quetta,Balochistan,57.440000,0.367012,high acute / high chronic,3710,10.700000,42.749300,20.323500,36.927200,0.000000
+Rawalpindi,Punjab,44.530000,-0.966458,high acute / low chronic,3635,3.400000,53.782700,20.577700,23.411300,0.000000
+Sargodha,Punjab,48.830000,-0.480316,high acute / low chronic,3898,12.500000,26.218600,41.585400,25.397600,2.103640
+Sukkur,Sindh,19.330000,0.952270,low acute / high chronic,2317,10.500000,57.229200,15.105700,11.221400,13.293100

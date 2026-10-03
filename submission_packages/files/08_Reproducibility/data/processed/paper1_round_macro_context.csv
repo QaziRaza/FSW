@@ -1,0 +1,5 @@
+round_id,survey_year,real_gdp_growth_pct,cpi_inflation_pct,cpi_period,open_unemployment_pct,unemployment_period,per_capita_income_usd,source_file,source_locator
+2006_07,2006-07,7.0,7.9,Jul-Apr,6.2,2005-06,925,data/raw/economic/economic_surveys/pakistan_economic_survey_2006_07_overview.pdf,"PDF pp. 1 (growth), 5 (income), 6 (inflation), 27 (open unemployment)"
+2011,2010-11,2.4,14.0,Jul-May,5.6,2009-10,1254,data/raw/economic/economic_surveys/pakistan_economic_survey_2010_11_overview.pdf,"PDF pp. 1 (shock/growth), 4 (inflation), 9 (income), 17 (unemployment)"
+2014,2014-15,4.24,4.8,Jul-Apr,6.0,2013-14,1512,data/raw/economic/economic_surveys/pakistan_economic_survey_2014_15_overview.pdf,"PDF pp. 2 (growth), 6 (income), 10 (inflation), 12 (unemployment)"
+2016_17,2016-17,5.28,4.09,Jul-Apr,,not encoded,1629,data/raw/economic/economic_surveys/pakistan_economic_survey_2016_17_overview.pdf,"PDF pp. 1 (growth), 5 (inflation), 10 (income)"

@@ -1,0 +1,33 @@
+economic_indicator,economic_indicator_label,fsw_marker,fsw_marker_label,n_rounds,spearman_rho,exact_permutation_p,status,p_fdr_bh_across_macro_marker_atlas
+real_gdp_growth_pct,GDP growth,mapped_fsw_total_round,round mapped total,4,-0.400000,0.750000,round_level_descriptive_small_n,1.000000
+real_gdp_growth_pct,GDP growth,median_city_fsw_total,median city mapped total,4,-0.600000,0.416667,round_level_descriptive_small_n,1.000000
+real_gdp_growth_pct,GDP growth,mean_city_fsw_total,mean city mapped total,4,-0.600000,0.416667,round_level_descriptive_small_n,1.000000
+real_gdp_growth_pct,GDP growth,median_home_share_pct,home share,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+real_gdp_growth_pct,GDP growth,median_street_share_pct,street share,3,1.000000,0.333333,round_level_descriptive_small_n,1.000000
+real_gdp_growth_pct,GDP growth,median_kothikhana_share_pct,kothikhana share,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+real_gdp_growth_pct,GDP growth,home_minus_street_balance_pp,home minus street balance,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+real_gdp_growth_pct,GDP growth,median_reported_distress_pct,reported household distress,4,-0.800000,0.333333,round_level_descriptive_small_n,1.000000
+cpi_inflation_pct,CPI inflation,mapped_fsw_total_round,round mapped total,4,0.400000,0.750000,round_level_descriptive_small_n,1.000000
+cpi_inflation_pct,CPI inflation,median_city_fsw_total,median city mapped total,4,0.400000,0.750000,round_level_descriptive_small_n,1.000000
+cpi_inflation_pct,CPI inflation,mean_city_fsw_total,mean city mapped total,4,0.400000,0.750000,round_level_descriptive_small_n,1.000000
+cpi_inflation_pct,CPI inflation,median_home_share_pct,home share,3,1.000000,0.333333,round_level_descriptive_small_n,1.000000
+cpi_inflation_pct,CPI inflation,median_street_share_pct,street share,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+cpi_inflation_pct,CPI inflation,median_kothikhana_share_pct,kothikhana share,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+cpi_inflation_pct,CPI inflation,home_minus_street_balance_pp,home minus street balance,3,1.000000,0.333333,round_level_descriptive_small_n,1.000000
+cpi_inflation_pct,CPI inflation,median_reported_distress_pct,reported household distress,4,0.000000,1.000000,round_level_descriptive_small_n,1.000000
+per_capita_income_usd,per-capita income,mapped_fsw_total_round,round mapped total,4,0.000000,1.000000,round_level_descriptive_small_n,1.000000
+per_capita_income_usd,per-capita income,median_city_fsw_total,median city mapped total,4,-0.200000,0.916667,round_level_descriptive_small_n,1.000000
+per_capita_income_usd,per-capita income,mean_city_fsw_total,mean city mapped total,4,-0.200000,0.916667,round_level_descriptive_small_n,1.000000
+per_capita_income_usd,per-capita income,median_home_share_pct,home share,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+per_capita_income_usd,per-capita income,median_street_share_pct,street share,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+per_capita_income_usd,per-capita income,median_kothikhana_share_pct,kothikhana share,3,1.000000,0.333333,round_level_descriptive_small_n,1.000000
+per_capita_income_usd,per-capita income,home_minus_street_balance_pp,home minus street balance,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+per_capita_income_usd,per-capita income,median_reported_distress_pct,reported household distress,4,0.400000,0.750000,round_level_descriptive_small_n,1.000000
+open_unemployment_pct,open unemployment,mapped_fsw_total_round,round mapped total,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+open_unemployment_pct,open unemployment,median_city_fsw_total,median city mapped total,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+open_unemployment_pct,open unemployment,mean_city_fsw_total,mean city mapped total,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+open_unemployment_pct,open unemployment,median_home_share_pct,home share,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+open_unemployment_pct,open unemployment,median_street_share_pct,street share,3,1.000000,0.333333,round_level_descriptive_small_n,1.000000
+open_unemployment_pct,open unemployment,median_kothikhana_share_pct,kothikhana share,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+open_unemployment_pct,open unemployment,home_minus_street_balance_pp,home minus street balance,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000
+open_unemployment_pct,open unemployment,median_reported_distress_pct,reported household distress,3,-0.500000,1.000000,round_level_descriptive_small_n,1.000000

@@ -1,0 +1,370 @@
+{
+  "summary": {
+    "status": "PASS",
+    "checks": 72,
+    "passed": 72,
+    "failed": 0
+  },
+  "checks": [
+    {
+      "check": "primary rho independently recomputed",
+      "passed": true,
+      "detail": "recomputed=-0.137622933; table=-0.137623000"
+    },
+    {
+      "check": "primary interval ordered",
+      "passed": true,
+      "detail": "CI -0.597 to 0.372"
+    },
+    {
+      "check": "primary permutation p bounded",
+      "passed": true,
+      "detail": "p=0.619524"
+    },
+    {
+      "check": "paired comparison set",
+      "passed": true,
+      "detail": "comparisons=['2006_07_to_2011', '2011_to_2014', '2011_to_2016_17']"
+    },
+    {
+      "check": "2006_07_to_2011: totals reconcile",
+      "passed": true,
+      "detail": "47062->78241"
+    },
+    {
+      "check": "2006_07_to_2011: percent change",
+      "passed": true,
+      "detail": "recomputed=66.250903"
+    },
+    {
+      "check": "2006_07_to_2011: annualized change",
+      "passed": true,
+      "detail": "recomputed=11.958912"
+    },
+    {
+      "check": "2006_07_to_2011: exact sign test",
+      "passed": true,
+      "detail": "up/down=8/2; p=0.109375"
+    },
+    {
+      "check": "2011_to_2014: totals reconcile",
+      "passed": true,
+      "detail": "37818->44160"
+    },
+    {
+      "check": "2011_to_2014: percent change",
+      "passed": true,
+      "detail": "recomputed=16.769792"
+    },
+    {
+      "check": "2011_to_2014: annualized change",
+      "passed": true,
+      "detail": "recomputed=5.303669"
+    },
+    {
+      "check": "2011_to_2014: exact sign test",
+      "passed": true,
+      "detail": "up/down=4/0; p=0.125000"
+    },
+    {
+      "check": "2011_to_2016_17: totals reconcile",
+      "passed": true,
+      "detail": "48366->49991"
+    },
+    {
+      "check": "2011_to_2016_17: percent change",
+      "passed": true,
+      "detail": "recomputed=3.359798"
+    },
+    {
+      "check": "2011_to_2016_17: annualized change",
+      "passed": true,
+      "detail": "recomputed=0.602643"
+    },
+    {
+      "check": "2011_to_2016_17: exact sign test",
+      "passed": true,
+      "detail": "up/down=4/6; p=0.753906"
+    },
+    {
+      "check": "atlas family complete",
+      "passed": true,
+      "detail": "54 cells = 6 exposures x 9 outcomes"
+    },
+    {
+      "check": "atlas FDR result",
+      "passed": true,
+      "detail": "hits=1; minimum q=0.040871"
+    },
+    {
+      "check": "macro-marker round panel",
+      "passed": true,
+      "detail": "rounds=['2006_07', '2011', '2014', '2016_17']"
+    },
+    {
+      "check": "macro-marker atlas complete",
+      "passed": true,
+      "detail": "32 cells = 4 indicators x 8 markers"
+    },
+    {
+      "check": "macro-marker sample grain",
+      "passed": true,
+      "detail": "n range=3-4"
+    },
+    {
+      "check": "macro-marker exact p bounded",
+      "passed": true,
+      "detail": "minimum p=0.333333"
+    },
+    {
+      "check": "macro-marker FDR result",
+      "passed": true,
+      "detail": "hits=0; minimum q=1.000000"
+    },
+    {
+      "check": "inflation-composition result independently recomputed",
+      "passed": true,
+      "detail": "rho=1.000000; exact p=0.333333"
+    },
+    {
+      "check": "macro assumptions ledger",
+      "passed": true,
+      "detail": "rows=8"
+    },
+    {
+      "check": "continuous stock panels",
+      "passed": true,
+      "detail": "panels=['continuous_to_2014', 'continuous_to_2016_17']; cities=[4, 6]"
+    },
+    {
+      "check": "continuous_to_2014: common cities independently reconstructed",
+      "passed": true,
+      "detail": "n=4"
+    },
+    {
+      "check": "continuous_to_2014: stock totals independently reconstructed",
+      "passed": true,
+      "detail": "totals=[np.int64(24987), np.int64(37818), np.int64(44160)]"
+    },
+    {
+      "check": "continuous_to_2014: recovery growth is slower",
+      "passed": true,
+      "detail": "annualized 9.65% -> 5.30%"
+    },
+    {
+      "check": "continuous_to_2016_17: common cities independently reconstructed",
+      "passed": true,
+      "detail": "n=6"
+    },
+    {
+      "check": "continuous_to_2016_17: stock totals independently reconstructed",
+      "passed": true,
+      "detail": "totals=[np.int64(22075), np.int64(40423), np.int64(42403)]"
+    },
+    {
+      "check": "continuous_to_2016_17: recovery growth is slower",
+      "passed": true,
+      "detail": "annualized 14.39% -> 0.87%"
+    },
+    {
+      "check": "base validation current",
+      "passed": true,
+      "detail": "status=PASS; checks=67"
+    },
+    {
+      "check": "exploratory validation current",
+      "passed": true,
+      "detail": "status=pass; checks=45"
+    },
+    {
+      "check": "report section: Executive summary",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: Evidence assembled and usable",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: Frozen primary result",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: Recent deterioration and chronic deprivation",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: Sex-work structure",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: What changed across economic deterioration and recovery",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: National economic indicators tested against multiple FSW markers",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: Replication and model checks",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: What the evidence supports and contradicts",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: Is Paper 2 justified?",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: Reproducibility and validation status",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report section: Source traceability",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: rho=-0.138",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: 66.25%",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: 16.77%",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: +3.36%",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: 11.96%",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: category C",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: 71,315",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: 64,829",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: not supported",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: Paper 2",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: minimum exact p-value is 0.333",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: home-minus-street balance",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: Kothikhana share did not behave as a clean temporal macro marker",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: Simple answer: yes",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: 9.65%",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: 14.39%",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: 0.87%",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report claim: fewer net newcomers",
+      "passed": true,
+      "detail": "present"
+    },
+    {
+      "check": "report avoids prohibited certainty",
+      "passed": true,
+      "detail": "no prohibited certainty language"
+    },
+    {
+      "check": "all report figures exist",
+      "passed": true,
+      "detail": "referenced=5; missing=[]"
+    },
+    {
+      "check": "knowledge index exists",
+      "passed": true,
+      "detail": "WHAT_WE_KNOW.md"
+    },
+    {
+      "check": "confirmatory summary preserved",
+      "passed": true,
+      "detail": "prespecified-only narrative retained separately"
+    },
+    {
+      "check": "source manifest retained",
+      "passed": true,
+      "detail": "source provenance available"
+    },
+    {
+      "check": "hypothesis ledger retained",
+      "passed": true,
+      "detail": "six hypotheses with later tests available"
+    },
+    {
+      "check": "current findings ledger",
+      "passed": true,
+      "detail": "rows=18; unique IDs=18"
+    },
+    {
+      "check": "findings preserve confirmatory boundary",
+      "passed": true,
+      "detail": "one confirmatory result and one FDR-adjusted exploratory result"
+    }
+  ]
+}

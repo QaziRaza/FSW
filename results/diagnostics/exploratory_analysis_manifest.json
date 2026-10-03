@@ -1,0 +1,18 @@
+{
+  "status": "exploratory_hypothesis_generating",
+  "cities_2011": 15,
+  "network_rows": 15,
+  "atlas_tests": 54,
+  "network_tests": 24,
+  "hypotheses": 6,
+  "best_nonlinear_cv_model": "constant",
+  "cross_round_comparisons": [
+    "2006_07_to_2011",
+    "2011_to_2014"
+  ],
+  "round_context_rows": 3,
+  "macro_improvement_contrasts": 3,
+  "macro_improvement_paired_city_rows": 24,
+  "paired_count_tests": 3,
+  "acute_chronic_spearman": -0.4892857142857142
+}

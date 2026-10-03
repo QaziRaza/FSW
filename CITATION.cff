@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this research compendium, please cite the accompanying manuscript."
+title: "Economic conditions and the changing scale and organisation of female sex work in Pakistan: a multi-period ecological study"
+type: dataset
+authors:
+  - family-names: Raza
+    given-names: Qazi
+    orcid: "https://orcid.org/0000-0003-4303-3390"
+  - family-names: Khan
+    given-names: Amna
+    orcid: "https://orcid.org/0009-0000-9152-3912"
+  - family-names: Qazi
+    given-names: Maham
+    orcid: "https://orcid.org/0009-0002-1199-7240"
+repository-code: "https://github.com/QaziRaza/FSW"
+date-released: 2026-10-03
+preferred-citation:
+  type: article
+  title: "Economic conditions and the changing scale and organisation of female sex work in Pakistan: a multi-period ecological study"
+  authors:
+    - family-names: Raza
+      given-names: Qazi
+      orcid: "https://orcid.org/0000-0003-4303-3390"
+    - family-names: Khan
+      given-names: Amna
+      orcid: "https://orcid.org/0009-0000-9152-3912"
+    - family-names: Qazi
+      given-names: Maham
+      orcid: "https://orcid.org/0009-0002-1199-7240"
+  year: 2026

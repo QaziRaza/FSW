@@ -1,0 +1,25 @@
+exposure,exposure_label,network_outcome,n,estimate_rho,p_value_exploratory,p_fdr_bh_within_family
+economic_distress_urban_pct,acute urban deterioration,network_operators,15,-0.307143,0.265473,0.637134
+economic_distress_urban_pct,acute urban deterioration,avg_home_fsw_per_operator,15,-0.346192,0.206227,0.549938
+economic_distress_urban_pct,acute urban deterioration,avg_kothikhana_fsw_per_operator,15,0.551673,0.033009,0.339995
+economic_distress_urban_pct,acute urban deterioration,avg_networked_fsw_per_operator,15,0.050134,0.859167,0.981905
+economic_distress_urban_pct,acute urban deterioration,avg_kothikhanas_per_operator,15,-0.005367,0.984855,0.984855
+economic_distress_urban_pct,acute urban deterioration,avg_kothikhana_fsw_per_kothikhana,15,0.062781,0.824101,0.981905
+chronic_deprivation_index,chronic deprivation index,network_operators,15,0.057143,0.839700,0.981905
+chronic_deprivation_index,chronic deprivation index,avg_home_fsw_per_operator,15,0.373098,0.170776,0.549938
+chronic_deprivation_index,chronic deprivation index,avg_kothikhana_fsw_per_operator,15,-0.289314,0.295616,0.644981
+chronic_deprivation_index,chronic deprivation index,avg_networked_fsw_per_operator,15,0.195166,0.485772,0.918093
+chronic_deprivation_index,chronic deprivation index,avg_kothikhanas_per_operator,15,-0.121646,0.665836,0.981905
+chronic_deprivation_index,chronic deprivation index,avg_kothikhana_fsw_per_kothikhana,15,0.356954,0.191526,0.549938
+fsw_density_per_1000_adult_men,mapped density,network_operators,15,-0.066131,0.814862,0.981905
+fsw_density_per_1000_adult_men,mapped density,avg_home_fsw_per_operator,15,0.522445,0.045720,0.339995
+fsw_density_per_1000_adult_men,mapped density,avg_kothikhana_fsw_per_operator,15,0.014389,0.959409,0.984855
+fsw_density_per_1000_adult_men,mapped density,avg_networked_fsw_per_operator,15,0.501793,0.056666,0.339995
+fsw_density_per_1000_adult_men,mapped density,avg_kothikhanas_per_operator,15,0.159355,0.570521,0.978037
+fsw_density_per_1000_adult_men,mapped density,avg_kothikhana_fsw_per_kothikhana,15,0.421008,0.118105,0.549938
+fsw_total,mapped total,network_operators,15,0.089286,0.751673,0.981905
+fsw_total,mapped total,avg_home_fsw_per_operator,15,-0.190136,0.497301,0.918093
+fsw_total,mapped total,avg_kothikhana_fsw_per_operator,15,0.539094,0.038103,0.339995
+fsw_total,mapped total,avg_networked_fsw_per_operator,15,0.141451,0.615069,0.981905
+fsw_total,mapped total,avg_kothikhanas_per_operator,15,0.347049,0.205031,0.549938
+fsw_total,mapped total,avg_kothikhana_fsw_per_kothikhana,15,-0.008969,0.974693,0.984855

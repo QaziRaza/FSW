@@ -1,0 +1,3 @@
+comparison,exposure,outcome,method,n,estimate_rho,p_value,status
+2006_07_to_2011,change_in_within_round_distress_percentile,delta_home_share_pct,Spearman,10,0.072949,0.841271,exploratory_small_paired_sample
+2006_07_to_2011,change_in_within_round_distress_percentile,delta_street_share_pct,Spearman,10,-0.224925,0.532122,exploratory_small_paired_sample

@@ -1,0 +1,8 @@
+term,coefficient,robust_se_hc3,p_value,ci_95_low,ci_95_high,model,outcome,n,r_squared_plain_ols
+const,11.059026,2.487512,0.000660,5.685084,16.432968,unadjusted_density,fsw_density_per_1000_adult_men,15,0.038316
+economic_distress_urban_pct,-0.054822,0.072287,0.461742,-0.210988,0.101344,unadjusted_density,fsw_density_per_1000_adult_men,15,0.038316
+const,14.725144,11.538073,0.226025,-10.414157,39.864445,scale_adjusted_density,fsw_density_per_1000_adult_men,15,0.054212
+economic_distress_urban_pct,-0.029330,0.109927,0.794146,-0.268841,0.210182,scale_adjusted_density,fsw_density_per_1000_adult_men,15,0.054212
+log_fsw_total,-0.560847,1.756153,0.754944,-4.387176,3.265483,scale_adjusted_density,fsw_density_per_1000_adult_men,15,0.054212
+const,2.508063,0.262330,0.000000,1.941332,3.074793,unadjusted_log_density,log_density,15,0.051730
+economic_distress_urban_pct,-0.007202,0.008171,0.394102,-0.024853,0.010450,unadjusted_log_density,log_density,15,0.051730

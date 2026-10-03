@@ -1,0 +1,8 @@
+﻿Economic indicator,FSW marker,Rounds,Spearman rho,Exact p,FDR q
+GDP growth,Median city mapped total,4,-0.600,0.417,1.000
+CPI inflation,Median city mapped total,4,0.400,0.750,1.000
+CPI inflation,Home share,3,1.000,0.333,1.000
+CPI inflation,Home minus street balance,3,1.000,0.333,1.000
+GDP growth,Street share,3,1.000,0.333,1.000
+GDP growth,Reported household deterioration,4,-0.800,0.333,1.000
+Per-capita income,Kothikhana share,3,1.000,0.333,1.000

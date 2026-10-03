@@ -1,0 +1,17 @@
+{
+  "primary": {
+    "analysis": "primary_2011_density_vs_urban_economic_distress",
+    "method": "Spearman",
+    "n": 15,
+    "estimate_rho": -0.13762293252343746,
+    "ci_95_low_bootstrap": -0.5971263774157396,
+    "ci_95_high_bootstrap": 0.3718457048183441,
+    "p_asymptotic_two_sided": 0.6247646982261328,
+    "p_permutation_two_sided": 0.6195238047619523,
+    "permutations": 100000,
+    "bootstrap_draws_valid": 20000,
+    "seed": 20261002
+  },
+  "largest_cooks_distance_city": "Quetta",
+  "largest_cooks_distance": 0.1742794674902651
+}

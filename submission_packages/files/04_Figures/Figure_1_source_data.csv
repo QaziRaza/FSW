@@ -1,0 +1,16 @@
+city,province,fsw_total,fsw_density_per_1000_adult_men,economic_distress_urban_pct,poverty_headcount_urban_pct,female_illiteracy_urban_pct,sanitation_deprivation_urban_pct,geographic_match_quality
+DG Khan,Punjab,1413,13.300,28.780,39.740,38.000,1.000,district_proxy
+Faisalabad,Punjab,4846,5.000,47.200,26.950,26.000,2.000,close
+Haripur,Khyber Pakhtunkhwa,2994,11.900,42.590,25.310,28.000,2.000,district_proxy
+Hyderabad,Sindh,4566,8.500,26.820,23.920,30.000,3.000,close
+Karachi,Sindh,25399,5.500,50.790,20.220,24.000,1.000,composite
+Lahore,Punjab,23766,11.500,37.470,24.900,24.000,2.000,close
+Larkana,Sindh,1114,8.200,23.130,60.820,50.000,9.000,district_proxy
+Mirpurkhas,Sindh,884,8.500,18.150,33.340,34.000,6.000,district_proxy
+Multan,Punjab,5308,8.000,39.770,34.140,32.000,3.000,close
+Nawabshah,Sindh,2011,14.200,27.580,52.790,56.000,15.000,district_proxy
+Peshawar,Khyber Pakhtunkhwa,3317,4.200,34.550,45.030,53.000,7.000,close
+Quetta,Balochistan,3710,10.700,57.440,36.000,57.000,2.000,close
+Rawalpindi,Punjab,3635,3.400,44.530,16.910,22.000,3.000,close
+Sargodha,Punjab,3898,12.500,48.830,27.660,30.000,3.000,close
+Sukkur,Sindh,2317,10.500,19.330,53.540,46.000,7.000,close

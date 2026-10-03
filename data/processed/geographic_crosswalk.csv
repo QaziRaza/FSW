@@ -1,0 +1,50 @@
+round_id,city_id,city,province,economic_geography,economic_period,geographic_match_quality,geographic_match_note
+2006_07,bannu,Bannu,Khyber Pakhtunkhwa,Bannu,2006-07,district_proxy,District urban stratum used as city proxy
+2006_07,faisalabad,Faisalabad,Punjab,Faisalabad,2006-07,close,City has a separately identified large-city stratum or close district-city correspondence
+2006_07,gujranwala,Gujranwala,Punjab,Gujranwala,2006-07,close,City has a separately identified large-city stratum or close district-city correspondence
+2006_07,hyderabad,Hyderabad,Sindh,Hyderabad,2006-07,close,City has a separately identified large-city stratum or close district-city correspondence
+2006_07,karachi,Karachi,Sindh,Karachi,2006-07,composite,Metropolitan surveillance geography versus changing multi-district administration
+2006_07,lahore,Lahore,Punjab,Lahore,2006-07,close,City has a separately identified large-city stratum or close district-city correspondence
+2006_07,larkana,Larkana,Sindh,Larkana,2006-07,district_proxy,District urban stratum used as city proxy
+2006_07,multan,Multan,Punjab,Multan,2006-07,close,City has a separately identified large-city stratum or close district-city correspondence
+2006_07,peshawar,Peshawar,Khyber Pakhtunkhwa,Peshawar,2006-07,close,City has a separately identified large-city stratum or close district-city correspondence
+2006_07,quetta,Quetta,Balochistan,Quetta,2006-07,close,City has a separately identified large-city stratum or close district-city correspondence
+2006_07,sargodha,Sargodha,Punjab,Sargodha,2006-07,close,City has a separately identified large-city stratum or close district-city correspondence
+2006_07,sukkur,Sukkur,Sindh,Sukkur,2006-07,close,City has a separately identified large-city stratum or close district-city correspondence
+2011,dg_khan,DG Khan,Punjab,D.G.Khan,2010-11,district_proxy,District urban stratum used as city proxy
+2011,faisalabad,Faisalabad,Punjab,Faisalabad,2010-11,close,City has a separately identified large-city stratum or close district-city correspondence
+2011,haripur,Haripur,Khyber Pakhtunkhwa,Haripur,2010-11,district_proxy,District urban stratum used as city proxy
+2011,hyderabad,Hyderabad,Sindh,Hyderabad,2010-11,close,City has a separately identified large-city stratum or close district-city correspondence
+2011,karachi,Karachi,Sindh,Karachi,2010-11,composite,Metropolitan surveillance geography versus changing multi-district administration
+2011,lahore,Lahore,Punjab,Lahore,2010-11,close,City has a separately identified large-city stratum or close district-city correspondence
+2011,larkana,Larkana,Sindh,Larkana,2010-11,district_proxy,District urban stratum used as city proxy
+2011,mirpurkhas,Mirpurkhas,Sindh,Mir Pur Khas,2010-11,district_proxy,District urban stratum used as city proxy
+2011,multan,Multan,Punjab,Multan,2010-11,close,City has a separately identified large-city stratum or close district-city correspondence
+2011,nawabshah,Nawabshah,Sindh,Nawabshah,2010-11,district_proxy,District urban stratum used as city proxy; later PSLM name is Shaheed Benazirabad
+2011,peshawar,Peshawar,Khyber Pakhtunkhwa,Peshawar,2010-11,close,City has a separately identified large-city stratum or close district-city correspondence
+2011,quetta,Quetta,Balochistan,Quetta,2010-11,close,City has a separately identified large-city stratum or close district-city correspondence
+2011,rawalpindi,Rawalpindi,Punjab,Rawalpindi,2010-11,close,City has a separately identified large-city stratum or close district-city correspondence
+2011,sargodha,Sargodha,Punjab,Sargodha,2010-11,close,City has a separately identified large-city stratum or close district-city correspondence
+2011,sukkur,Sukkur,Sindh,Sukkur,2010-11,close,City has a separately identified large-city stratum or close district-city correspondence
+2014,faisalabad,Faisalabad,Punjab,Faisalabad,2014-15,close,City has a separately identified large-city stratum or close district-city correspondence
+2014,lahore,Lahore,Punjab,Lahore,2014-15,close,City has a separately identified large-city stratum or close district-city correspondence
+2014,multan,Multan,Punjab,Multan,2014-15,close,City has a separately identified large-city stratum or close district-city correspondence
+2014,sargodha,Sargodha,Punjab,Sargodha,2014-15,close,City has a separately identified large-city stratum or close district-city correspondence
+2016_17,bahawalpur,Bahawalpur,Punjab,Bahawalpur,2014-15,district_proxy,District urban stratum used as city proxy
+2016_17,bannu,Bannu,Khyber Pakhtunkhwa,Bannu,2014-15,district_proxy,District urban stratum used as city proxy
+2016_17,dg_khan,DG Khan,Punjab,,2014-15,district_proxy,District urban stratum used as city proxy
+2016_17,gujranwala,Gujranwala,Punjab,Gujranwala,2014-15,close,City has a separately identified large-city stratum or close district-city correspondence
+2016_17,gujrat,Gujrat,Punjab,Gujrat,2014-15,district_proxy,District urban stratum used as city proxy
+2016_17,hyderabad,Hyderabad,Sindh,Hyderabad,2014-15,close,City has a separately identified large-city stratum or close district-city correspondence
+2016_17,karachi,Karachi,Sindh,Karachi,2014-15,composite,Metropolitan surveillance geography versus changing multi-district administration
+2016_17,kasur,Kasur,Punjab,Kasur,2014-15,district_proxy,District urban stratum used as city proxy
+2016_17,larkana,Larkana,Sindh,Larkana,2014-15,district_proxy,District urban stratum used as city proxy
+2016_17,mirpurkhas,Mirpurkhas,Sindh,Mirpur Khas,2014-15,district_proxy,District urban stratum used as city proxy
+2016_17,nawabshah,Nawabshah,Sindh,Shaheed Benazirabad,2014-15,district_proxy,District urban stratum used as city proxy; later PSLM name is Shaheed Benazirabad
+2016_17,peshawar,Peshawar,Khyber Pakhtunkhwa,Peshawar,2014-15,close,City has a separately identified large-city stratum or close district-city correspondence
+2016_17,quetta,Quetta,Balochistan,Quetta,2014-15,close,City has a separately identified large-city stratum or close district-city correspondence
+2016_17,rawalpindi,Rawalpindi,Punjab,Rawalpindi,2014-15,close,City has a separately identified large-city stratum or close district-city correspondence
+2016_17,sheikhupura,Sheikhupura,Punjab,Sheikhupura,2014-15,district_proxy,District urban stratum used as city proxy
+2016_17,sialkot,Sialkot,Punjab,Sialkot,2014-15,district_proxy,District urban stratum used as city proxy
+2016_17,sukkur,Sukkur,Sindh,Sukkur,2014-15,close,City has a separately identified large-city stratum or close district-city correspondence
+2016_17,turbat,Turbat,Balochistan,,2014-15,district_proxy,District urban stratum used as city proxy; matched to Kech district

@@ -1,0 +1,7 @@
+round_id,exposure,outcome,method,n,estimate_rho,p_value,p_fdr_bh
+2006_07,economic_distress_urban_pct,home_share_pct,Spearman,12,0.161121,0.616899,0.729195
+2006_07,economic_distress_urban_pct,street_share_pct,Spearman,12,0.111888,0.729195,0.729195
+2011,economic_distress_urban_pct,home_share_pct,Spearman,15,-0.146429,0.602550,0.729195
+2011,economic_distress_urban_pct,street_share_pct,Spearman,15,0.267857,0.334444,0.668887
+2014,economic_distress_urban_pct,home_share_pct,Spearman,4,-0.800000,0.200000,0.600000
+2014,economic_distress_urban_pct,street_share_pct,Spearman,4,0.800000,0.200000,0.600000

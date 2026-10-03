@@ -1,0 +1,7 @@
+analysis,x,y,method,n,estimate,p_value
+primary_pair_pearson,economic_distress_urban_pct,fsw_density_per_1000_adult_men,pearson,15,-0.195745,0.484454
+urban_poverty,poverty_headcount_urban_pct,fsw_density_per_1000_adult_men,spearman,15,0.280608,0.311037
+urban_female_illiteracy,female_illiteracy_urban_pct,fsw_density_per_1000_adult_men,spearman,15,0.316025,0.251179
+urban_sanitation_deprivation,sanitation_deprivation_urban_pct,fsw_density_per_1000_adult_men,spearman,15,-0.061087,0.828782
+all_area_economic_distress,economic_distress_all_pct,fsw_density_per_1000_adult_men,spearman,15,-0.091153,0.746635
+log_density_pearson,economic_distress_urban_pct,log_density,pearson,15,-0.227442,0.414942

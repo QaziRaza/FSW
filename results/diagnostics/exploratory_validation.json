@@ -1,0 +1,236 @@
+{
+  "summary": {
+    "status": "pass",
+    "checks": 45,
+    "passed": 45,
+    "failed": 0,
+    "failures": []
+  },
+  "checks": [
+    {
+      "check": "feature row count",
+      "passed": true,
+      "detail": "observed 15, expected 15"
+    },
+    {
+      "check": "feature city uniqueness",
+      "passed": true,
+      "detail": "unique cities 15"
+    },
+    {
+      "check": "network row count",
+      "passed": true,
+      "detail": "observed 15, expected 15"
+    },
+    {
+      "check": "network city uniqueness",
+      "passed": true,
+      "detail": "unique cities 15"
+    },
+    {
+      "check": "network city coverage",
+      "passed": true,
+      "detail": "network and 2011 city sets match"
+    },
+    {
+      "check": "network operator total",
+      "passed": true,
+      "detail": "observed 12162, published 12162"
+    },
+    {
+      "check": "no missing network values",
+      "passed": true,
+      "detail": "all 15x6 numeric network cells present"
+    },
+    {
+      "check": "chronic index reconstruction",
+      "passed": true,
+      "detail": "index equals mean of three z-scored chronic measures"
+    },
+    {
+      "check": "chronic index centering",
+      "passed": true,
+      "detail": "mean 1.33e-09"
+    },
+    {
+      "check": "acute z centering",
+      "passed": true,
+      "detail": "mean 0"
+    },
+    {
+      "check": "implied population reconstruction",
+      "passed": true,
+      "detail": "count*1000/density reproduced"
+    },
+    {
+      "check": "archetypes complete",
+      "passed": true,
+      "detail": "four archetypes; counts {'low acute / high chronic': 6, 'high acute / low chronic': 6, 'high acute / high chronic': 2, 'low acute / low chronic': 1}"
+    },
+    {
+      "check": "archetype table coverage",
+      "passed": true,
+      "detail": "dedicated table contains all 15 cities"
+    },
+    {
+      "check": "macro context rows",
+      "passed": true,
+      "detail": "rounds ['2006_07', '2011', '2014', '2016_17']"
+    },
+    {
+      "check": "2011 macro values",
+      "passed": true,
+      "detail": "2011 growth 2.4 and CPI 14.0"
+    },
+    {
+      "check": "macro sources and locators",
+      "passed": true,
+      "detail": "every macro row has source file and locator"
+    },
+    {
+      "check": "association atlas dimensions",
+      "passed": true,
+      "detail": "54 rows, 6x9"
+    },
+    {
+      "check": "association bounds",
+      "passed": true,
+      "detail": "all rho and p values within bounds"
+    },
+    {
+      "check": "atlas FDR dominates p",
+      "passed": true,
+      "detail": "all adjusted p values are at least raw p values"
+    },
+    {
+      "check": "economic family dimensions",
+      "passed": true,
+      "detail": "observed 10, expected 10 pairwise tests"
+    },
+    {
+      "check": "network association dimensions",
+      "passed": true,
+      "detail": "observed 24, expected 24"
+    },
+    {
+      "check": "model dimensions",
+      "passed": true,
+      "detail": "21 rows across 7 models"
+    },
+    {
+      "check": "model confidence intervals ordered",
+      "passed": true,
+      "detail": "all coefficients lie inside own intervals"
+    },
+    {
+      "check": "constant wins nonlinear LOOCV",
+      "passed": true,
+      "detail": "minimum-RMSE degree 0"
+    },
+    {
+      "check": "paired transition coverage",
+      "passed": true,
+      "detail": "counts {'2006_07_to_2011': 10, '2011_to_2014': 4}"
+    },
+    {
+      "check": "hypothesis ledger complete",
+      "passed": true,
+      "detail": "6 fully specified hypotheses"
+    },
+    {
+      "check": "macro contrast coverage",
+      "passed": true,
+      "detail": "common-city counts [10, 4, 10]"
+    },
+    {
+      "check": "macro contrast city rows",
+      "passed": true,
+      "detail": "observed 24, expected 24"
+    },
+    {
+      "check": "improvement direction encoded",
+      "passed": true,
+      "detail": "post-2011 contrasts have higher growth and lower inflation"
+    },
+    {
+      "check": "improvement count result",
+      "passed": true,
+      "detail": "aggregate changes [16.77, 3.36]"
+    },
+    {
+      "check": "paired count tests complete",
+      "passed": true,
+      "detail": "rows=3"
+    },
+    {
+      "check": "exact sign tests",
+      "passed": true,
+      "detail": "p=[0.109375, 0.125, 0.753906]"
+    },
+    {
+      "check": "annualized contrast ordering",
+      "passed": true,
+      "detail": "annualized=[11.959, 5.304, 0.603]"
+    },
+    {
+      "check": "2011 source values preserved",
+      "passed": true,
+      "detail": "city, total and density unchanged from frozen master"
+    },
+    {
+      "check": "figure exploratory_figure_1_association_atlas.png",
+      "passed": true,
+      "detail": "dimensions (2050, 1080)"
+    },
+    {
+      "check": "figure exploratory_figure_2_acute_vs_chronic.png",
+      "passed": true,
+      "detail": "dimensions (1800, 1120)"
+    },
+    {
+      "check": "figure exploratory_figure_3_scale_contrast.png",
+      "passed": true,
+      "detail": "dimensions (1900, 760)"
+    },
+    {
+      "check": "figure exploratory_figure_4_organisation.png",
+      "passed": true,
+      "detail": "dimensions (1850, 1100)"
+    },
+    {
+      "check": "figure exploratory_figure_5_round_context.png",
+      "passed": true,
+      "detail": "dimensions (1900, 1040)"
+    },
+    {
+      "check": "figure exploratory_figure_6_better_economy_test.png",
+      "passed": true,
+      "detail": "dimensions (1900, 940)"
+    },
+    {
+      "check": "report status label",
+      "passed": true,
+      "detail": "exploratory status explicitly stated"
+    },
+    {
+      "check": "atlas FDR result",
+      "passed": true,
+      "detail": "one adjusted association: all-area deterioration versus kothikhana share"
+    },
+    {
+      "check": "report multiplicity statement",
+      "passed": true,
+      "detail": "correct FDR result stated"
+    },
+    {
+      "check": "report scale distinction",
+      "passed": true,
+      "detail": "count and density distinction stated"
+    },
+    {
+      "check": "report mechanism boundary",
+      "passed": true,
+      "detail": "mechanistic limits stated"
+    }
+  ]
+}
