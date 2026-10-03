@@ -23,11 +23,11 @@ Official evidence:
 
 No journal can guarantee acceptance, and the reported acceptance rate is journal-wide rather than specific to ecological studies. The recommendation is therefore the best evidence-based target, not a promise.
 
-## STI formatting profile
+## STI submission package
 
-The complete manuscript is the authoritative scientific version. STI's Original Research format permits 3,000 main-text words, a 300-word structured abstract, four combined tables or figures, and 30 references, and it requires a three-part key-messages box. The complete master contains approximately 7,582 main-text words, five tables, three figures, and 45 references.
+The complete manuscript remains the authoritative scientific master. A separate STI-compliant submission version is available in `journal_submissions/STI/`. It contains 1,996 main-text words, a 281-word structured abstract, four combined display items, 30 references, and the required three-part key-messages box.
 
-An STI-formatted derivative uses the following editorial priorities without changing the analyses or conclusions:
+The STI version applies the following editorial priorities without changing the analyses or conclusions:
 
 - retain the primary density result, the acute-versus-chronic scale contrast, and the deterioration-to-recovery panel as the central story;
 - keep four display items in the main manuscript and move full regression, sensitivity, network, transition, and macro-marker tables into the supplementary appendix;

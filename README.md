@@ -75,6 +75,10 @@ python scripts/validate_manuscript.py
 
 The manuscript declarations are complete. The submission package supplies the derived analytical data, code, source manifest, statistical outputs, and validation reports cited in the data-availability statement.
 
+### Sexually Transmitted Infections submission version
+
+`journal_submissions/STI/` contains the separate journal-specific submission package. Its Original Research manuscript has 1,996 main-text words, a 281-word structured abstract, 30 references, two tables, two figures, the required three-part key-messages box, a title page, cover letter, supplementary appendix, reproducibility archive, and completed STROBE checklist. Run `python scripts/build_sti_submission.py` and `python scripts/validate_sti_submission.py` to rebuild and verify it.
+
 ## Boundaries
 
 - This is an ecological analysis of city mapping estimates and district/urban-stratum indicators; it cannot identify individual-level causes.
